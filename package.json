@@ -1,0 +1,18 @@
+{
+  "name": "recover-couch-doc",
+  "version": "1.0.0",
+  "description": "recover a deleted doc from previous revision",
+  "main": "./index.js",
+  "bin": "./cli.js",
+  "dependencies": {
+    "request": "^2.69.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ryanramage/recover-couch-doc.git"
+  },
+  "bugs": {
+    "url": "http://github.com/ryanramage/recover-couch-doc/issues"
+  },
+  "homepage": "http://github.com/ryanramage/recover-couch-doc"
+}
